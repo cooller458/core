@@ -48,7 +48,6 @@
   "devDependencies": {
     "@metamask/auto-changelog": "^3.4.4",
     "@types/deep-freeze-strict": "^1.1.0",
-    "@types/jest": "^29.5.11",
     "deep-freeze-strict": "^1.1.1",
     "deepmerge": "^4.2.2",
     "jest": "^29.7.0",
