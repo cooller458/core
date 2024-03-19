@@ -82,7 +82,6 @@
     "prettier": "^2.7.1",
     "prettier-plugin-packagejson": "^2.4.5",
     "simple-git-hooks": "^2.8.0",
-    "ts-jest": "^29.1.1",
     "ts-node": "^10.9.1",
     "tsup": "^8.0.2",
     "typescript": "~4.8.4",
