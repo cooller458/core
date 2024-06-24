@@ -62,6 +62,7 @@
     "@lavamoat/allow-scripts": "^3.0.2",
     "@metamask/auto-changelog": "^3.4.4",
     "@metamask/scure-bip39": "^2.1.1",
+    "@types/jest": "^29.5.11",
     "deepmerge": "^4.2.2",
     "jest": "^29.7.0",
     "jest-environment-node": "^27.5.1",
