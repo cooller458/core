@@ -28,9 +28,9 @@ import { ERC721Standard } from './Standards/NftStandards/ERC721/ERC721Standard';
 export const SINGLE_CALL_BALANCES_ADDRESS_BY_CHAINID: Record<Hex, string> = {
   [SupportedTokenDetectionNetworks.mainnet]:
     '0xb1f8e55c7f64d203c1400b9d8555d050f94adf39',
-  [SupportedTokenDetectionNetworks.bsc]:
+  [SupportedTokenDetectionNetworks.mainnet_v2]:
     '0x2352c63A83f9Fd126af8676146721Fa00924d7e4',
-  [SupportedTokenDetectionNetworks.polygon]:
+  [SupportedTokenDetectionNetworks.mainnet_v3]:
     '0x2352c63A83f9Fd126af8676146721Fa00924d7e4',
   [SupportedTokenDetectionNetworks.avax]:
     '0xD023D153a0DFa485130ECFdE2FAA7e612EF94818',
