@@ -38,7 +38,7 @@ export const SINGLE_CALL_BALANCES_ADDRESS_BY_CHAINID: Record<Hex, string> = {
     '0x1286415D333855237f89Df27D388127181448538',
   [SupportedTokenDetectionNetworks.linea_goerli]:
     '0x10dAd7Ca3921471f616db788D9300DC97Db01783',
-  [SupportedTokenDetectionNetworks.linea_mainnet]:
+  [SupportedTokenDetectionNetworks.mainnet_v2]:
     '0xF62e6a41561b3650a69Bb03199C735e3E3328c0D',
   [SupportedTokenDetectionNetworks.arbitrum]:
     '0x151E24A486D7258dd7C33Fb67E4bB01919B7B32c',
